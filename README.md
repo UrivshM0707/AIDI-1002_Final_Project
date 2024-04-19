@@ -21,11 +21,11 @@ Before running the code, ensure you have the following dependencies installed:
    
 git clone https://github.com/yourusername/stock-price-prediction.git
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
 cd stock-price-prediction
 
-5. Install the required Python packages:
+3. Install the required Python packages:
    
 pip install -r requirements.txt
 
